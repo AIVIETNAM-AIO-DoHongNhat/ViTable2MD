@@ -1,0 +1,9 @@
+opencv-python>=4.8
+numpy>=1.24
+pillow>=10.0              
+torch>=2.0                
+Levenshtein>=0.21         
+apted>=1.0.3              
+jupyter
+matplotlib>=3.7
+pandas>=2.0
