@@ -1,2 +1,9 @@
 src/data/
 src/runs/
+data/
+runs/
+report/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
